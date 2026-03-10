@@ -36,7 +36,6 @@ This platform enhances web content with AI-powered tools and accessibility featu
 ### 3. Visual aids
 - **Large cursor:** Easier navigation for users with visual impairments
 - **High contrast mode:** Enhances readability by increasing color contrast
-- **Smart magnifier:** Magnifies content near the cursor for better focus
 
 ---
 
